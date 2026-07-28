@@ -40343,5 +40343,13 @@
                        "minimumReturnDate":  "2026-04-27",
                        "plannedReturnDate":  "2027-01-27",
                        "costCentre":  "2014/0001"
-                   }
+                   },
+    {
+    "F45MTH4": {
+                       "minimumReturnDate": "2026-10-27",
+                       "plannedReturnDate": "2026-11-15",
+                       "costCentre": "1411/0001",
+                       "comment": "Test device only"
+  }
+}
 }
