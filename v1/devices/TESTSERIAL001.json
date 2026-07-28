@@ -1,0 +1,7 @@
+{
+  "schemaVersion": 1,
+  "serialNumber": "TESTSERIAL001",
+  "endOfLeaseDate": "2027-01-31",
+  "status": "Planned",
+  "notificationEnabled": true
+}
