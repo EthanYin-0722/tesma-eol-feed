@@ -40349,5 +40349,11 @@
                        "plannedReturnDate": "2026-11-15",
                        "costCentre": "1411/0001",
                        "comment": "Test device only"
-  }
+  },
+    "4CE103538T": {
+                       "minimumReturnDate": "2030-10-27",
+                       "plannedReturnDate": "2030-11-15",
+                       "costCentre": "1411/0001",
+                       "comment": "Test device only"
+}
 }
